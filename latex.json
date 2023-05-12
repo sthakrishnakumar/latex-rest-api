@@ -14,8 +14,6 @@
         {
             "subjectId": "c3fd0c87-fc64-4b86-99bb-f87d24b53b80",
             "chapterId": "04a531b0-1b6c-47c6-a85e-ddab5f81f353",
-            "subChapterId": null,
-            "levelId": null,
             "questions": "$ \\int_{}^{} \\frac{x+3}{x-3}dx $ is equal to",
             "choice1": "x+6log(x-3)",
             "choice2": "x+log(x-3)",
@@ -56,6 +54,61 @@
             "choice5": "$ \\frac{\\sqrt{3}}{2} $",
             "answer": "$ 2 $",
             "id": "d71aae03-c25c-4d8a-959a-23f9cf1455ce"
+        },
+        {
+            "subjectId": "c3fd0c87-fc64-4b86-99bb-f87d24b53b80",
+            "chapterId": "04a531b0-1b6c-47c6-a85e-ddab5f81f353",
+            "questions": "$ \\int_{}^{}\\frac{dx}{1-cosx} $",
+            "choice1": "$ \\frac{1}{2}cot\\frac{x}{2} $",
+            "choice2": "$ cosec^2\\frac{x}{2} $",
+            "choice3": "$ -cot\\frac{x}{2} $",
+            "choice5": "$ -cosec\\frac{x}{2}cot{x}{2} $",
+            "answer": "$ -cot\\frac{x}{2} $",
+            "id": "66b1186e-2a37-49bf-9a7f-e9b95e5a30b5"
+        },
+        {
+            "subjectId": "c3fd0c87-fc64-4b86-99bb-f87d24b53b80",
+            "chapterId": "04a531b0-1b6c-47c6-a85e-ddab5f81f353",
+            "questions": "$ \\int\\begin{bmatrix} \\frac{1}{ln x}- \\frac{1}{(ln x)^{2}} \\end{bmatrix}dx = $",
+            "choice1": "$ e^{x} ln x + c $",
+            "choice2": "$ \\frac{x}{ln x} + c $",
+            "choice3": "$ \\frac{2ln x}{x} + c $",
+            "choice5": "$ ln x - \\frac{x}{2} + c $",
+            "answer": "$ \\frac{x}{ln x} + c $",
+            "id": "81bd900f-7b5d-4b8f-9d95-8685b2cc19cd"
+        },
+        {
+            "subjectId": "c3fd0c87-fc64-4b86-99bb-f87d24b53b80",
+            "chapterId": "04a531b0-1b6c-47c6-a85e-ddab5f81f353",
+            "questions": "$ \\int_{}^{}  \\frac{dx}{x+ \\sqrt{a^2-x^2}} $ is equal to",
+            "choice1": "$ \\frac{x}{2} + \\frac{log(a^2-x^2)}{2} $",
+            "choice2": "$ \\frac{x}{2} + \\frac{log(1 + \\sqrt{a^2-x^2})}{2} $",
+            "choice3": "$ \\frac{x}{2} + \\frac{1}{2}log(cosx + sinx) $",
+            "choice5": "$ \\frac{x}{2} + \\frac{1}{2} log(cosx + tanx) $",
+            "answer": "$ \\frac{x}{2} + \\frac{1}{2}log(cosx + sinx) $",
+            "id": "643f9d9c-6e75-4190-8981-6699563749b8"
+        },
+        {
+            "subjectId": "c3fd0c87-fc64-4b86-99bb-f87d24b53b80",
+            "chapterId": "04a531b0-1b6c-47c6-a85e-ddab5f81f353",
+            "questions": "$ \\int_{}^{} xcosx^2 dx $ is equal to",
+            "choice1": "$ xsinx^2 $",
+            "choice2": "$ \\frac{1}{2}x^2sinx^2 $",
+            "choice3": "$ \\frac{1}{2}sinx^2 $",
+            "choice5": "$ \\frac{1}{2}cosx^2 $",
+            "answer": "$ \\frac{1}{2}sinx^2 $",
+            "id": "72ec81e8-bf8a-472e-88d1-d0ff7785acb1"
+        },
+        {
+            "subjectId": "c3fd0c87-fc64-4b86-99bb-f87d24b53b80",
+            "chapterId": "04a531b0-1b6c-47c6-a85e-ddab5f81f353",
+            "questions": "$\\int f^1 (ax + b)dx$ is equal to",
+            "choice1": "$\\frac{f^1(ax+b)}{a}+c$",
+            "choice2": "$a.f(ax+b)+c$",
+            "choice3": "$\\frac{1}{a}f(ax+b)+c$",
+            "choice5": "$f(ax+b)+c$",
+            "answer": "$\\frac{1}{a}f(ax+b)+c$",
+            "id": "dc2cf5e6-aa35-467a-8208-5d7ca51eda40"
         }
     ],
     "message": null
