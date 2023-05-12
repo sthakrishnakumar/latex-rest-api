@@ -1,0 +1,62 @@
+{
+    "data": [
+        {
+            "subjectId": "c3fd0c87-fc64-4b86-99bb-f87d24b53b80",
+            "chapterId": "04a531b0-1b6c-47c6-a85e-ddab5f81f353",
+            "questions": "The value of $\\int\\frac{dx}{\\sqrt{2ax-x^2}}$ is",
+            "choice1": "$\\frac{1}{a} tan^{-1}\\frac{x-a}{a} +c$",
+            "choice2": "$\\frac{1}{a} sin^{-1}\\frac{x-a}{a} +c$",
+            "choice3": "$ sin^{-1}\\frac{x-a}{a} +c$",
+            "choice5": "$cos^{-1}\\frac{x-a}{a} +c$",
+            "answer": "$ sin^{-1}\\frac{x-a}{a} +c$",
+            "id": "4ce6041a-500d-4fac-8c7e-4e9f300f3fe2"
+        },
+        {
+            "subjectId": "c3fd0c87-fc64-4b86-99bb-f87d24b53b80",
+            "chapterId": "04a531b0-1b6c-47c6-a85e-ddab5f81f353",
+            "subChapterId": null,
+            "levelId": null,
+            "questions": "$ \\int_{}^{} \\frac{x+3}{x-3}dx $ is equal to",
+            "choice1": "x+6log(x-3)",
+            "choice2": "x+log(x-3)",
+            "choice3": "(x-3)log(x+3)",
+            "choice5": "6log(x-3)",
+            "answer": "x+6log(x-3)",
+            "id": "574df107-c2e8-4265-8f35-a43073219f6b"
+        },
+        {
+            "subjectId": "c3fd0c87-fc64-4b86-99bb-f87d24b53b80",
+            "chapterId": "04a531b0-1b6c-47c6-a85e-ddab5f81f353",
+            "questions": "$ \\int_{\\frac{\\pi}{2}}^{\\frac{\\pi}{6}}  \\frac{dx}{1-cos2x}  $ is equal to",
+            "choice1": "2-Jan",
+            "choice2": "$ \\frac{-\\sqrt{3}}{2} $",
+            "choice3": "$ \\frac{-{1}}{\\sqrt{2}} $",
+            "choice5": "1",
+            "answer": "$ \\frac{-\\sqrt{3}}{2} $",
+            "id": "24f5bae0-4113-4971-8895-5a5133607041"
+        },
+        {
+            "subjectId": "c3fd0c87-fc64-4b86-99bb-f87d24b53b80",
+            "chapterId": "04a531b0-1b6c-47c6-a85e-ddab5f81f353",
+            "questions": "$ \\int_{}^{} \\frac{cotx}{logsinx}dx $ is equal to",
+            "choice1": "log(logsinx)",
+            "choice2": "log(logsecx)",
+            "choice3": "log(logcotx)",
+            "choice5": "log(logcosecx)",
+            "answer": "log(logsinx)",
+            "id": "76bb264a-6a4c-47c1-955a-42248a37506a"
+        },
+        {
+            "subjectId": "c3fd0c87-fc64-4b86-99bb-f87d24b53b80",
+            "chapterId": "04a531b0-1b6c-47c6-a85e-ddab5f81f353",
+            "questions": "$ \\int_{0}^{\\frac{\\pi}{2}}  \\sqrt{1+cosx}dx $ is equal to",
+            "choice1": "$ \\sqrt{2} $",
+            "choice2": "$ 2 $",
+            "choice3": "$ \\frac{1}{\\sqrt{2}} $",
+            "choice5": "$ \\frac{\\sqrt{3}}{2} $",
+            "answer": "$ 2 $",
+            "id": "d71aae03-c25c-4d8a-959a-23f9cf1455ce"
+        }
+    ],
+    "message": null
+}
