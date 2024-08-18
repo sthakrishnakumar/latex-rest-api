@@ -1,24 +1,16 @@
 {
- "packages": [
-{
-"plan_exp_days" : 30,
-"price": 499
-},
-{
-"plan_exp_days" : 60,
-"price": 599
-},
-{
-"plan_exp_days" : 90,
-"price": 699
-},
-{
-"plan_exp_days" : 120,
-"price": 899
-},
-{
-"plan_exp_days" : 365,
-"price": 1299
-}
-]
+ "emails":
+[
+    "jenish@waterflow.technology",
+    "bibek.khatri@waterflow.technology",
+    "nishant@waterflow.technology",
+    "sudan@waterflow.technology",
+    "ujjwal@waterflow.technology",
+    "aayush@waterflow.technology",
+    "abhishek@waterflow.technology",
+    "anusha@waterflow.technology",
+    "dikshya@waterflow.technology",
+    "nirajan@waterflow.technology",
+    "tshering@waterflow.technology"
+ ]
 }
